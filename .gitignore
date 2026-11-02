@@ -1,0 +1,12 @@
+*.pem
+*.key
+.env
+.env.*
+*.tfstate
+*.tfstate.*
+.terraform/
+.aws/
+credentials
+__pycache__/
+.DS_Store
+.idea/
